@@ -4,7 +4,7 @@ This project sheds light on the significance of machine learning in solving real
 Customer satisfaction is a critical factor for purchasing decisions in the e-commerce industry. Sentiment analysis gives businesses actionable insights by interpreting customer opinions in product reviews. E-commerce platforms like Amazon have transformed how customers interact with products and provide feedback. Online reviews reflect individual purchasing choices essential to a brand's overall reputation. Customers' opinions regarding taste, freshness, and presentation in the bakery business significantly impact purchasing decisions.
 Traditional sales data generally does not capture qualitative insights that customer reviews express.
 Considering this, this project aims to answer the following:
-"How does sentiment analysis of customer reviews influence market strategies, product development, and pricing decisions for both large e-commerce platforms like Amazon and small businesses in the food industry?"
+#### "How does sentiment analysis of customer reviews influence market strategies, product development, and pricing decisions for both large e-commerce platforms like Amazon and small businesses in the food industry?"
 Let's break this down into more specific questions:
 1.	What are the consumer sentiments towards bakery & confectionery products on Amazon, and how do these sentiments affect market demand and pricing strategies?
 2.	To what extent do different sentiment analysis models impact the accuracy and cost-effectiveness of identifying consumer preferences in the bakery & confectionery products market?
